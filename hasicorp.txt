@@ -1,0 +1,9 @@
+vagrantcloud.com
+api.cloud.hashicorp.com
+checkpoint-api.hashicorp.com
+developer.hashicorp.com
+portal.cloud.hashicorp.com
+d2n5045g1kopvr.cloudfront.net
+d2n5045g1kopvr.cloudfront.net
+discuss.hashicorp.com
+hashicorp.hosted-by-discourse.com
